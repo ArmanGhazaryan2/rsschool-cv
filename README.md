@@ -1,1 +1,1 @@
-#  https://ArmanGhazaryan2.git.io/rsschool-cv/cv
+#  https://github.com/ArmanGhazaryan2/rsschool-cv/cv
